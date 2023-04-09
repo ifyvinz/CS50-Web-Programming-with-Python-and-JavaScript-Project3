@@ -1,0 +1,35 @@
+textarea {
+    min-height: 400px;
+}
+
+/*#emails-view{
+   display: flex;
+}*/
+.main-div{
+    display: flex;
+    justify-content: space-between;
+   
+    border: 1px solid grey;
+}
+
+.parent-div{
+    display: flex;
+    flex-direction: row;
+    align-content: space-between;
+    
+    
+}
+
+/*.parent-div > *{
+    flex: 1 2 300px;
+    margin-left: 40px;
+
+}*/
+
+.main-div{
+    cursor: pointer;
+    margin-top: 1px;
+    padding: 5px;
+
+}
+
